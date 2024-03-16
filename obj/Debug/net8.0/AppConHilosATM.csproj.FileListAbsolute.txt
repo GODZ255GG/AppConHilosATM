@@ -1,0 +1,14 @@
+C:\Users\reneu\Videos\codigo\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.exe
+C:\Users\reneu\Videos\codigo\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.deps.json
+C:\Users\reneu\Videos\codigo\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.runtimeconfig.json
+C:\Users\reneu\Videos\codigo\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.dll
+C:\Users\reneu\Videos\codigo\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.pdb
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.AssemblyInfoInputs.cache
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.AssemblyInfo.cs
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.csproj.CoreCompileInputs.cache
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.dll
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\refint\AppConHilosATM.dll
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.pdb
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.genruntimeconfig.cache
+C:\Users\reneu\Videos\codigo\AppConHilosATM\obj\Debug\net8.0\ref\AppConHilosATM.dll
